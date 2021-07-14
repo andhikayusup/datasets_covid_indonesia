@@ -1,4 +1,4 @@
-tanggal;kum_meninggal;kum_sembuh;kum_dirawat;kum_positif;harian_meninggal;harian_sembuh;harian_dirawat;harian_positif
+tanggal,kum_meninggal,kum_sembuh,kum_dirawat,kum_positif,harian_meninggal,harian_sembuh,harian_dirawat,harian_positif
 03/01/2020;0;0;0;0;0;0;0;0
 03/02/2020;0;0;2;2;0;0;2;2
 03/03/2020;0;0;2;2;0;0;0;0
